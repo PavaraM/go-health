@@ -1,5 +1,10 @@
 # go-health
 
+![Go Version](https://img.shields.io/badge/Go-1.27-00ADD8?logo=go)
+![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?logo=docker)
+![CI](https://github.com/pavara/go-health/actions/workflows/ci.yml/badge.svg)
+![License](https://img.shields.io/badge/License-TBD-lightgrey)
+
 A minimal, production-ready HTTP health check server written in Go. Designed for Kubernetes liveness/readiness probes, load balancer health checks, and container orchestration platforms.
 
 ## Features
